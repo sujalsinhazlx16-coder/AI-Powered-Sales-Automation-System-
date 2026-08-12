@@ -1,0 +1,7 @@
+config.json
+leads_crm.json
+bot_session.session
+*.session
+*.session-journal
+__pycache__/
+*.pyc
